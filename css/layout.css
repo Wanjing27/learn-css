@@ -45,6 +45,7 @@ body {
 /* Left and right column */
 .column.side {
   width: 25%;
+  padding: 10px;
 }
 
 /* Middle column */
