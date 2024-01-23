@@ -45,6 +45,7 @@ body {
 /* Left and right column */
 .column.side {
   width: 25%;
+  padding: 10px;
 }
 
 /* Middle column */
@@ -65,5 +66,6 @@ body {
 @media screen and (max-width: 600px) {
   .column.side, .column.middle {
     width: 100%;
+    display: block;
   }
 }
